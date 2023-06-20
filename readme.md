@@ -69,7 +69,7 @@ Em seguida, vamos criar o arquivo `calculadora.py` e implementar o código para 
 class Calculadora:
     pass
 ```
-
+### 3.1 Red!
 Agora, vamos executar o teste:
 
 ```bash
@@ -86,7 +86,7 @@ FAILED calculadora_test.py::TestCalculadora::test_multiplicacao - AttributeError
 FAILED calculadora_test.py::TestCalculadora::test_soma - AttributeError: 'Calculadora' object has no attribute 'soma'
 FAILED calculadora_test.py::TestCalculadora::test_subtracao - AttributeError: 'Calculadora' object has no attribute 'subtracao'
 ```
-
+### 3.2 Green!
 Vamos implementar o método `soma` na classe `Calculadora`:
 
 ```python
@@ -119,5 +119,3 @@ Após a conclusão do projeto, podemos percerber as vantagens do TDD, como:
 ## Referências
 [TDD - Test Driven Development](https://www.devmedia.com.br/tdd-test-driven-development/18533)
 [O que é TDD?](https://www.casadocodigo.com.br/pages/sumario-tdd)
-
-"# vvt-python-tdd" 
