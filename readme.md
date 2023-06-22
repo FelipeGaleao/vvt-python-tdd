@@ -6,8 +6,9 @@ Introdução ao TDD utilizando Python com o framework [Pytest](https://docs.pyte
 
 - [Maycon Felipe Mota](https://github.com/felipegaleao)
 - [Eduardo Godoy](https://google.com)
-- [Thiago Lutz](https://google.com)
+- [Thiago Lutz](https://github.com/lutzzdias)
 - [Vitor Oliveira Brandão](https://google.com)
+- [Vitor Lameirão](https://github.com/VitorLameirao)
 
 ## Ferramentas
 
